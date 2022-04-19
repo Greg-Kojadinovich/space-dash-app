@@ -121,6 +121,9 @@ def get_cat_plot(entered_site, payload_slider):
 if __name__ == '__main__':
     app.run_server(debug=True)
 
+# course materials to begin
 #wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv"
 #wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_3/spacex_dash_app.py"
+
+#run the app
 #python3 spacex_dash_app.py
